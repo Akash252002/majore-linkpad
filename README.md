@@ -1,9 +1,4 @@
 
-
-
-
-
-
 **Linkpad**
 
 **Description**
@@ -70,7 +65,3 @@ Linkpad is a web application that provides a platform for students, alumni, and 
 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can copy and paste this content into a new Microsoft Word document and adjust the formatting as needed. Let me know if you need further assistance!

@@ -1,8 +1,8 @@
-Certainly! Below is the README content formatted for Microsoft Word:
 
----
 
-![Linkpad Logo](linkpad_logo.png)
+
+
+
 
 **Linkpad**
 
